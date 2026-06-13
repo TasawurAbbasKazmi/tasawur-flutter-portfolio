@@ -25,6 +25,11 @@ The application is designed around intentional interaction: every feature encour
 
 > Source code is proprietary and not publicly available. This document serves as a technical case study.
 
+### Live Apps
+
+-  Google Play Store:
+-  Apple App Store: https://apps.apple.com/pk/app/aurylius/id6755753775
+
 ---
 
 ## Business Problem
