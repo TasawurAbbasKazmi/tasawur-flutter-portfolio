@@ -26,8 +26,8 @@ A key differentiator is the League Owner system - league creators can connect th
 
 ### Live Apps
 
--  Google Play Store:
--  Apple App Store: https://apps.apple.com/pk/app/mastery-football-training-app/id6752392862
+-  Google Play Store:[Mastery](https://play.google.com/store/apps/details?id=com.euniverse.masteryapp)
+-  Apple App Store: [Mastery](https://apps.apple.com/pk/app/mastery-football-training-app/id6752392862)
 
 ---
 
