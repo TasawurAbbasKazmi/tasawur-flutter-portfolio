@@ -27,9 +27,9 @@ The application is designed around intentional interaction: every feature encour
 
 ### Live Apps
 
--  Google Play Store:
--  Apple App Store: https://apps.apple.com/pk/app/aurylius/id6755753775
-
+-  Google Play Store: [Aurylius](https://play.google.com/store/apps/details?id=com.aurylius.auryliusapp)
+-  Apple App Store: [Aurylius](https://apps.apple.com/pk/app/aurylius/id6755753775)
+  
 ---
 
 ## Business Problem
