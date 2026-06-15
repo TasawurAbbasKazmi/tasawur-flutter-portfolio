@@ -24,10 +24,9 @@ The application targets business buyers and procurement teams who need a reliabl
 
 > Source code is proprietary and not publicly available. This document serves as a technical case study.
 
-### Live Apps
+### Live App
 
--  Google Play Store:
--  Apple App Store: https://apps.apple.com/pk/app/fidelen/id6449617954
+-  Apple App Store: [Fidelen](https://apps.apple.com/pk/app/fidelen/id6449617954)
 
 ---
 
