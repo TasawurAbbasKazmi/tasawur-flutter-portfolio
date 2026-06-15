@@ -26,6 +26,10 @@ The project covers the complete product - mobile client, web client, and backend
 
 ---
 
+### Live Apps
+
+-  Google Play Store: [Tap A Deal](https://play.google.com/store/apps/details?id=org.microprogramers.tapadeal&hl=en)
+
 ## My Role
 
 **Full-Stack Flutter Developer** - sole developer responsible for the complete mobile app, web app, and Firebase backend.
